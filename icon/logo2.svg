@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32.700001cm"
+   height="11cm"
+   viewBox="0 0 327 110"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="logo2.svg"
+   style="shape-rendering:crispEdges"
+   inkscape:export-filename="D:\WORK\REACT NATIVE\OlehOlehApps\icon\logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <title
+     id="title3759">Nearby Logo</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.65124675"
+     inkscape:cx="316.44346"
+     inkscape:cy="352.14344"
+     inkscape:document-units="cm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-grids="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:pagecheckerboard="false"
+     units="cm">
+    <sodipodi:guide
+       position="146.46106,197.24507"
+       orientation="0,1"
+       id="guide21"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="177.54087,193.18235"
+       orientation="0,1"
+       id="guide23"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="161.08685,247.0134"
+       orientation="0,1"
+       id="guide25"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="160.68058,251.27925"
+       orientation="0,1"
+       id="guide27"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Nearby Logo</dc:title>
+        <dc:date>2019-09-20</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>MSA</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-187)">
+    <rect
+       style="fill:#ffeeaa;stroke-width:0.3005949"
+       id="rect3719"
+       width="68.949203"
+       height="70.124626"
+       x="127.83774"
+       y="143.29088"
+       transform="matrix(0.84404763,0.53626822,-0.53184676,0.84684062,0,0)"
+       ry="20.304699"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path3717"
+       style="fill:#ffcc00;stroke-width:0.45201933"
+       transform="matrix(0.84404763,0.53626822,-0.53184676,0.84684062,0,0)"
+       sodipodi:type="arc"
+       sodipodi:cx="162.31233"
+       sodipodi:cy="178.35318"
+       sodipodi:rx="34.543644"
+       sodipodi:ry="34.855549"
+       sodipodi:start="0"
+       sodipodi:end="4.2120259"
+       d="m 196.85598,178.35318 a 34.543644,34.855549 0 0 1 -28.80887,34.37186 34.543644,34.855549 0 0 1 -38.3743,-22.95934 34.543644,34.855549 0 0 1 16.06741,-41.99507 l 16.57211,30.58255 z"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffd42a;stroke-width:0.51560509"
+       d="m 51.818693,200.91711 a 3.3164657,3.2873924 20.455164 0 0 -3.288157,2.61037 l -0.0072,-9.5e-4 -0.0028,0.0417 a 3.3164657,3.2873924 20.455164 0 0 -0.0042,0.016 3.3164657,3.2873924 20.455164 0 0 -0.05017,0.74451 l -2.281432,32.25043 6.521339,1.24408 2.337816,-33.05321 -0.0056,-9.1e-4 a 3.3164657,3.2873924 20.455164 0 0 -2.656772,-3.79423 3.3164657,3.2873924 20.455164 0 0 -0.562746,-0.0583 z"
+       id="rect31"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path91"
+       d="m 79.00171,253.11473 a 3.2760543,3.3279437 29.754458 0 0 -0.748254,-4.14556 l 0.0047,-0.005 -0.03542,-0.0221 a 3.2760543,3.3279437 29.754458 0 0 -0.01243,-0.0107 3.2760543,3.3279437 29.754458 0 0 -0.63008,-0.39401 l -27.241775,-17.16381 -4.153125,5.20783 27.920074,17.59069 0.0023,-0.005 a 3.2760543,3.3279437 29.754458 0 0 4.577978,-0.57863 3.2760543,3.3279437 29.754458 0 0 0.315327,-0.47242 z"
+       style="fill:#ffd42a;stroke-width:0.51560509"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.94606018px;line-height:1.25;font-family:'Codec Cold Trial';-inkscape-font-specification:'Codec Cold Trial';letter-spacing:0px;word-spacing:0px;fill:#fff6d5;fill-opacity:1;stroke:none;stroke-width:1.79865158;"
+       x="100.10105"
+       y="232.24298"
+       id="text95"
+       transform="scale(0.86021334,1.1625023)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan93"
+         x="100.10105"
+         y="232.24298"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Codec Cold Trial';-inkscape-font-specification:'Codec Cold Trial';fill:#fff6d5;stroke-width:1.79865158;">Nearby</tspan></text>
+  </g>
+</svg>
