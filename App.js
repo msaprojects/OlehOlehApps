@@ -1,4 +1,7 @@
 import React, {Component} from 'react';
+import { createAppContainer } from 'react-navigation';
+import { createStackNavigator } from 'react-navigation-stack';
+
 import {
   SafeAreaView,
   StyleSheet,
@@ -8,9 +11,13 @@ import {
   Image,
   TextInput,
   StatusBar,
+  TouchableOpacity,
 } from 'react-native';
 
-export default class App extends Component {
+const setScreen = (screen) =>{
+  this.setState({screen: screen})
+}
+export default class App extends React.Component {
   render(){
     return (
       <View style={{flex: 1}}>
@@ -179,6 +186,33 @@ export default class App extends Component {
                 </ScrollView>
               </View>
             </View>
+
+            <View style={{ flex:1, alignItems:'center', justifyContent:'center'}}>
+              <Text>COBA BRO</Text>
+                <button
+                  title=" Go to Details"
+                  onPress={()=> this.props.navigation.navigate('Details')}/>
+            </View>
+
+            {/* Tanggal Liburan */}
+            <View style={{marginTop: 0, paddingHorizontal:20}}>
+              
+                <View>
+                  <View style={{paddingTop: 1, paddingBottom:20, borderBottomColor:'#E8E9ED', borderBottomWidth: 1}}>
+                  <View style={{ width:440, height:200, marginTop:20}}>
+                  <Text style={{fontSize: 18, fontWeight: 'bold', color: '#1C1C1C', marginBottom:10}}>Kalender Liburan</Text>
+                    <Image
+                      style={{flex:1, height:null, width:null, resizeMode:'cover',borderRadius:5, borderWidth:1, borderColor:'#dddddd'}}
+                      source={require('./icon/planned.jpg')}/>
+                    </View>
+                    <Text style={{fontSize: 16, fontWeight: 'bold', color:'#1C1C1C', marginTop:5}}>Ayo ! Segera cek kalender liburanmu mulai sekarang. Dan dapatkan promo menarik didalamnya.</Text>
+                    <TouchableOpacity  style={{backgroundColor:'red', paddingHorizontal:13, paddingVertical:11, alignSelf: 'flex-end', borderRadius: 4}}>
+                      <Text style={{fontSize:13, fontWeight: 'bold', color:'white'}}>READ</Text>
+                    </TouchableOpacity>
+
+                  </View>
+                </View>
+                </View>
           </View>
         </ScrollView>
         {/* BOTTOM NAVIGATION */}
